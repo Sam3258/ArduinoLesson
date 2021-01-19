@@ -1,2 +1,2 @@
-# ArduinoLesson
-The repository is for my Arduino lesson
+# Arduino Lesson
+The repository stores materials of my Arduino lessons
