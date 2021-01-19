@@ -7,10 +7,10 @@ vode setup() {
 
 void loop() {
 	digitalWrite(12, HIGH);			// turn the LED1 on
-	delay(1000);					// wait for a second
+	delay(1000);				// wait for a second
 	digitalWrite(12, LOW);			// turn the LED1 off
 	
 	digitalWrite(13, HIGH);			// turn the LED2 on
-	delay(1000);					// wait for a second
+	delay(1000);				// wait for a second
 	digitalWrite(13, LOW);			// turn the LED2 off
 }	
